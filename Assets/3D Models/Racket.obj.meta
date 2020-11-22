@@ -1,0 +1,616 @@
+fileFormatVersion: 2
+guid: 48d5ed86075e59a44a358de0e442e5b9
+ModelImporter:
+  serializedVersion: 19300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCube1Mat
+    second: {fileID: 2100000, guid: 60d4e9d62a73ba04ca3e45e9e6336f2f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder115Mat
+    second: {fileID: 2100000, guid: 7b79ac9e5debbb3449ca9d675c5d93aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder116Mat
+    second: {fileID: 2100000, guid: 7303f19102c7cb8418b7262a3bad42fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder117Mat
+    second: {fileID: 2100000, guid: c938ec899644b4c4fa1b861aa7055ef6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder118Mat
+    second: {fileID: 2100000, guid: ae3fb9b3926fbe34f82f08690ab5967b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder119Mat
+    second: {fileID: 2100000, guid: c2ee1ca10bf07864195bf3b2f542cb95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder120Mat
+    second: {fileID: 2100000, guid: 3692b9ddd04ea6d47a81a8595f18aaf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder121Mat
+    second: {fileID: 2100000, guid: dc6184a35fff83442be7921b78e01770, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder122Mat
+    second: {fileID: 2100000, guid: 2f29f30f899ff934393d0745c95872b0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder123Mat
+    second: {fileID: 2100000, guid: f28a5b94edc4c2e489b8313612b47c08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder124Mat
+    second: {fileID: 2100000, guid: 6dca38006f6a2fb438f91361ab250aff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder125Mat
+    second: {fileID: 2100000, guid: 9da6daf0ca10a5042a7b595b88a1ff85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder126Mat
+    second: {fileID: 2100000, guid: 374618f76e1f7c74d89f6ef53975bfd5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder127Mat
+    second: {fileID: 2100000, guid: de6c1f01dbae8a24bb2cd525337b6a67, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder128Mat
+    second: {fileID: 2100000, guid: 66c523b9984df304faa0b8e2d0d48f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder129Mat
+    second: {fileID: 2100000, guid: 4b595ebbe3f1d7f46a77c47f742c9a34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder130Mat
+    second: {fileID: 2100000, guid: 3bb559e4dd1934e408a8e56f98537536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder131Mat
+    second: {fileID: 2100000, guid: 3e3775f877c3dca44b74333c0095e6fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder132Mat
+    second: {fileID: 2100000, guid: 64ac7d05b7f32884487872af33d173f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder133Mat
+    second: {fileID: 2100000, guid: e108eefaf95ad0646b32f9bc3b7c89a2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder134Mat
+    second: {fileID: 2100000, guid: 90300006b5fb0e9489392f6dc6b3d4bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder135Mat
+    second: {fileID: 2100000, guid: 42a584077c757bc4eac20b697d9cb5b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder136Mat
+    second: {fileID: 2100000, guid: de82f71e1ec39c445bc7e12b471542c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder137Mat
+    second: {fileID: 2100000, guid: 37926ae9521dc9b4a80579a9aced92a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder138Mat
+    second: {fileID: 2100000, guid: 7cd52966e2d9a6f4282572c9bd958e3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder139Mat
+    second: {fileID: 2100000, guid: 184046ccaebe5af43851d23db8098594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder140Mat
+    second: {fileID: 2100000, guid: e9f59f1a38d4b4f4cb07eb57f18aa9b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder141Mat
+    second: {fileID: 2100000, guid: 6d475e6d05d151843aba18fbe679e21e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder142Mat
+    second: {fileID: 2100000, guid: 13d6b1f66ead0fd449187033eda74584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder143Mat
+    second: {fileID: 2100000, guid: 10ec4abaa312c8a41992fa9463d00c1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder144Mat
+    second: {fileID: 2100000, guid: db728bc3fec2ae541b67709fe897a121, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder145Mat
+    second: {fileID: 2100000, guid: d79bd81d5fa8eef41933eae41c6c438e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder146Mat
+    second: {fileID: 2100000, guid: ef4211c96e799de47831acb91d28137e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pCylinder147Mat
+    second: {fileID: 2100000, guid: 46c344fd8b2da0b4089203821923086a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus10Mat
+    second: {fileID: 2100000, guid: 9bbeecc9bf6a89745b757c066f3922bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus11Mat
+    second: {fileID: 2100000, guid: 821bbb3fdc3999f4bb9e9b40c98cc947, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus13Mat
+    second: {fileID: 2100000, guid: a1af62b8757b4614cbaac9be34a6e8f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus14Mat
+    second: {fileID: 2100000, guid: c9b9ab32f8ba4904783da164f51c8459, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus15Mat
+    second: {fileID: 2100000, guid: a055fde22b759814999c759774445330, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus16Mat
+    second: {fileID: 2100000, guid: 10bdbb8f08749c147be506d9e74ac91e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus17Mat
+    second: {fileID: 2100000, guid: 9200ff6bdf4d5604a90f586fd6420b6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus18Mat
+    second: {fileID: 2100000, guid: 1311a7d49b08d974cb2c59e738677c2e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus19Mat
+    second: {fileID: 2100000, guid: ed91c7adaf3820c44b71e603992c2cd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus1Mat
+    second: {fileID: 2100000, guid: c495246151fb2474fb55731575ee00fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus20Mat
+    second: {fileID: 2100000, guid: 8170bb4046b9c7641a18947f4842574a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus21Mat
+    second: {fileID: 2100000, guid: 15da228f938bb134d8c9c4afb1a0f7d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus22Mat
+    second: {fileID: 2100000, guid: 430008ac41ceff540b23ef13da1bdfa3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus23Mat
+    second: {fileID: 2100000, guid: 9a24cc67f239f694b8978a73ecec0c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus24Mat
+    second: {fileID: 2100000, guid: fc4953afd6323d64e9bb05aac3603453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus25Mat
+    second: {fileID: 2100000, guid: 328eb737a830ab74dbb2915e397e94c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus26Mat
+    second: {fileID: 2100000, guid: 5a8268855cb11da47ae094c289d23eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus27Mat
+    second: {fileID: 2100000, guid: 827074b3a6309c044aeeec16e051e20a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus28Mat
+    second: {fileID: 2100000, guid: c9796dd690afec449b7959a1ff2be4b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus29Mat
+    second: {fileID: 2100000, guid: 6c7a87f9bf956b4478a397122a6ce077, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus2Mat
+    second: {fileID: 2100000, guid: 144d926e2f6ccc64a8dbee8a41dff6cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus30Mat
+    second: {fileID: 2100000, guid: ccaba9aec84fd044dafe6c0fa552af00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus31Mat
+    second: {fileID: 2100000, guid: e160f5305d1652049a0b39ba4a1c2abd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus32Mat
+    second: {fileID: 2100000, guid: 3ec828cb65d4ee64aa3ec73bcc82ce1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus33Mat
+    second: {fileID: 2100000, guid: 06c36ac03bde4f54ea46cced0ce8702f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus34Mat
+    second: {fileID: 2100000, guid: 4c080cf408fcbdf4ea57b45734c899de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus35Mat
+    second: {fileID: 2100000, guid: a0c0658c3e9c1de47bc7ef08b1b30ed2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus36Mat
+    second: {fileID: 2100000, guid: bdf1f3e5feb55804892c049dca1d68da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus37Mat
+    second: {fileID: 2100000, guid: 56e00f6d78557774d9526df5b7e24e71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus38Mat
+    second: {fileID: 2100000, guid: 2ed9784d8c742d5458e4bb82271fdf5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus39Mat
+    second: {fileID: 2100000, guid: 2ef9282f3785942409b89893659655e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus3Mat
+    second: {fileID: 2100000, guid: b4d96a9b2a0e97247a2b9c933db51245, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus40Mat
+    second: {fileID: 2100000, guid: 1389a0c24572b654d8dac6366ac017ee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus41Mat
+    second: {fileID: 2100000, guid: a03c00f0166dc1a41bfdb1f0f859b183, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus42Mat
+    second: {fileID: 2100000, guid: ecd22f8efd6493e43aa7e27ef3c9873f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus43Mat
+    second: {fileID: 2100000, guid: 69054d67e48fad044b33ced0790f1f40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus44Mat
+    second: {fileID: 2100000, guid: 18de48233d23af54894074b532fd7ba7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus45Mat
+    second: {fileID: 2100000, guid: b15e483ca1c36dd4289f898aa4ffb0a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus46Mat
+    second: {fileID: 2100000, guid: 0a70bdf1d0004374d88548bb9341bc68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus47Mat
+    second: {fileID: 2100000, guid: 810dfc1dbf960844494f18573ff31783, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus48Mat
+    second: {fileID: 2100000, guid: b2c2f6d4074fa4b40a552f5d6a387b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus49Mat
+    second: {fileID: 2100000, guid: b94ec9fd74eb3284a806e59aef452327, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus4Mat
+    second: {fileID: 2100000, guid: 6239947172eb77f448001a35e5967d4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus50Mat
+    second: {fileID: 2100000, guid: be24d92b76fd30943bedd6592348e27d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus51Mat
+    second: {fileID: 2100000, guid: 5bd7892e6a4ad2c44a233a0db46d886e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus52Mat
+    second: {fileID: 2100000, guid: 895271819d8677a489e63ab1c5fca5fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus53Mat
+    second: {fileID: 2100000, guid: 86d8e8f4ac6b52a45a7d2fe2b7c09f07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus54Mat
+    second: {fileID: 2100000, guid: 406844648fe49b1489bca5726157320e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus55Mat
+    second: {fileID: 2100000, guid: 8812e3744e57572469657b983b6e6d86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus56Mat
+    second: {fileID: 2100000, guid: b0e2c7729fd484345af3a19ea92e6f99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus57Mat
+    second: {fileID: 2100000, guid: 467122ef225a36d44a5263613a010869, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus58Mat
+    second: {fileID: 2100000, guid: 30fea84c9b5e03e419189597940455e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus59Mat
+    second: {fileID: 2100000, guid: 438fad29481d98e4c97bc08b73405a60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus5Mat
+    second: {fileID: 2100000, guid: a56d2fccca3b62f459e08a3946aabbd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus60Mat
+    second: {fileID: 2100000, guid: f22d15e08b563bd458fa8195c97ed5e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus61Mat
+    second: {fileID: 2100000, guid: 16dd03920ae689a4186e303f7a80918e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus62Mat
+    second: {fileID: 2100000, guid: efccbc05d1300434b988aeee70bf103c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus63Mat
+    second: {fileID: 2100000, guid: 9f522f56746532f4294b2a3de69e24df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus64Mat
+    second: {fileID: 2100000, guid: 23e340d6e25bedb41ae99e3ae35d736f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus65Mat
+    second: {fileID: 2100000, guid: 1e4a5cfd5010c4a47b55f2cac1ae9f3e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus66Mat
+    second: {fileID: 2100000, guid: 2f922401f29d16f44929d1746352ca08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus6Mat
+    second: {fileID: 2100000, guid: 6df5b9283df14ec4a8bc92950cd68ee0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus7Mat
+    second: {fileID: 2100000, guid: 2b77dab23e6f3a04295b526238dccbed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus8Mat
+    second: {fileID: 2100000, guid: 05a2e7b3f19056c46bb3a8a0d1b1f06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__pTorus9Mat
+    second: {fileID: 2100000, guid: 76b33f1f0fb7ffa4f9137afd3ff97333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__polySurface133Mat
+    second: {fileID: 2100000, guid: 88dba7852d3b94744867ce04ff88b5fe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__polySurface134Mat
+    second: {fileID: 2100000, guid: c794d659e80afad48a90710ac5c1ffc6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__polySurface31Mat
+    second: {fileID: 2100000, guid: 7085bf4a65ac7a0459ad083ec01db8fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: group25_group24_pasted__group1_verde_pasted__polySurface46Mat
+    second: {fileID: 2100000, guid: c35b76c5fb7d92249aa7c76cd7e7ca81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__pTorus12_group25_group24_pasted__group1_verdeMat
+    second: {fileID: 2100000, guid: c8470a31cb9c017468037b1ca5228c27, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.5
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
